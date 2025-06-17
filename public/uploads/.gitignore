@@ -1,0 +1,15 @@
+*.jpg
+*.jpeg
+*.png
+
+!item_cover/item-1.jpg
+!item_cover/item-2.jpg
+!item_cover/item-3.jpg
+!item_cover/item-4.jpg
+!item_cover/item-5.jpg
+!item_cover/item-6.jpg
+!item_cover/item-7.jpg
+!item_cover/item-8.jpg
+!item_cover/item-9.jpg
+!item_cover/item-10.jpg
+!item_cover/default.jpg
